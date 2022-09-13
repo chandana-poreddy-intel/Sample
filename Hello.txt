@@ -1,1 +1,3 @@
 Hello I'm Chandana. Learning Git
+
+Changes are made after first commit and push.
